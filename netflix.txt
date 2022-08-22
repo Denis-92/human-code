@@ -10,7 +10,7 @@ ci tiene incollati allo schermo. Che senso di vuoto quando poi finisce!
 1) clicco l'applicazione di netflix
 2) inserisco le credenziali dell'account
 3) accedo
-4) scelgo il mio profilo "Andrea"
+4) scelgo il mio profilo
 
 5) SE siamo > 2 e NOT c'è Francesco OPPURE Rosario
 	ALLORA cerca film
